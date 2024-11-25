@@ -1,0 +1,9 @@
+path: /content/gdrive/MyDrive/YOLOv8 Projects/Self Driving Car Project/Lane Detection - Deep Learning/data/dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+
+
+names: ['lane']
